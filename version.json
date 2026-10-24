@@ -1,1 +1,10 @@
-
+{
+  "version": "2.29",
+  "versionCode": 38,
+  "package": "com.smartslink.volt_tank300",
+  "platform": "Tank300",
+  "url": "https://raw.githubusercontent.com/alzaubi/volt_tank300/main/VOLT_THEME_TANK300_v2.29.apk",
+  "notes": "VOLT Theme Tank300 2.29: VOLT interface with 14 retained gauge themes, Tank300 vehicle integration, wide activation gate, VOLT_APP licensing and Tank300 update channel.",
+  "sha256": "2CCFFD39D9282DA6B5E7BECA6142412486284CCD6C5E3E95B44299C64F6D58BD",
+  "size": 79156461
+}
