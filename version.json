@@ -1,10 +1,10 @@
 {
-  "version": "2.30",
-  "versionCode": 39,
+  "version": "2.31",
+  "versionCode": 40,
   "package": "com.smartslink.volt_tank300",
   "platform": "Tank300",
-  "url": "https://raw.githubusercontent.com/alzaubi/volt_tank300/main/VOLT_THEME_TANK300_v2.30.apk",
-  "notes": "VOLT Theme Tank300 2.30: cleaned legacy gauge source and duplicate resources; firmware-verified ARM64 release reduced to 49.15 MB while retaining all 14 VOLT themes, Tank300 integration, wide activation gate and VOLT_APP licensing.",
-  "sha256": "ED5A1E6B4D75153665328D0A2C8EC0E65C5A2E8DC5A22480C417804EF869423F",
-  "size": 49152563
+  "url": "https://raw.githubusercontent.com/alzaubi/volt_tank300/main/VOLT_THEME_TANK300_v2.31.apk",
+  "notes": "VOLT Theme Tank300 2.31: exact top-level Tank300 Send-to-Panel and Return-to-HU task sequence restored; cluster mouse tap and two-finger scroll remain routed to display 1; retains all 14 VOLT themes and VOLT_APP licensing.",
+  "sha256": "D17E2F93E0135A95031FEF2BFE57347AC725FE84AEDA4BC580F2CF695233F0F3",
+  "size": 49152599
 }
